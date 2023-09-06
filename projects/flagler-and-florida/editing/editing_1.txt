@@ -1,4 +1,4 @@
-FLAGLER AND FLORIDA
+# FLAGLER AND FLORIDA
 
 By EDWIN LEFEVRE
 
@@ -35,7 +35,7 @@ If you are a motorist, you will see the Or mond beach, return thanks to the Make
 
 If the Royal Poinciana Hotel neither awes you by its size nor charms you by its architecture, the grounds completely de- light you. Yes- terday a swamp washere; to-day you see the wizardry of the dollar. To make a lawn here was more difficult than it would have been to spread a sheet of solid silver on this spot, or on the golf links, where Mr. Flagler's engineers dumped thousands of carloads of earth. Lawns you have seen before; but not these curious trees and strange shrubs with polychromatic leaves; uncanny screw pines with clumps of exposed roots like writhing serpents upholding the trunk; the gaudy crimson blossoms of the hibiscus that suggest the red lights on a Christmas tree; palms of divers kinds; borders of century plants grown to huge size. And over it all the azure splendor of the Florida sky canopying a scene of so exotic a beauty that you are not merely miles, but whole worlds, away from New York. 
 
-FLAGLER AT THE BEGINNING OF HIS CAREER AS MONEY MAKER.
+### FLAGLER AT THE BEGINNING OF HIS CAREER AS MONEY MAKER.
 
 Hither comes the ultra-fashion of the great cities to wear its summer gowns six months ahead of time; to see and to be seen. The crowd alone is worth the trip. You get to know Doucet and Paquin bet- ter than you know your pas- tor, and a trip through the cor- ridors in the evening is mere- ly a journey from Paris to Palm Beach by way of the rue de la Paix via Fifth Avenue. 
 
@@ -52,7 +52,7 @@ You push on to Miami, in what was, till recently, the southernmost section under
 
 You push southward. Seen from the car windows, the Keys are shoreless islands of verdure, for all the world suggesting a flooded meadow with clumps of trees rising above the flood. The water itself is the greatest charm, with its varying shades of blue and green, according to the depth. In many places it shows chalky white, espe cially after a storm, which stirs up the marl in the bottom. You see no habitations; no sign human life until you stop at Long Key, from which the famous viaduct starts. 
 
-AN OLD CANAL-ONE OF THE SPANISH SURVIVALS THAT LEND GLAMOUR TO FLORIDA.
+### AN OLD CANAL-ONE OF THE SPANISH SURVIVALS THAT LEND GLAMOUR TO FLORIDA.
 
 Long Key is now the most popular fishing camp in Flori- da, with its comfortable, homelike hotel. The white coral beach and the cocoanut palms recall to your mind South Sea atolls. And you sit on the porch of your cottage, and look across the waters that shade from light green to blue; and you see the Gulf Stream like a clearly defined sapphirine streak (the Gulf blue!), and you are confronted by the might of the invincible ocean-until, happening to turn, you see the concrete via- duct built into that same in- vincible ocean. 
 
@@ -85,7 +85,7 @@ George W. Perkins, of J. P. Morgan & Co., said not long ago: “I can understand
 
 For you must remember that Flagler owns the hotels and the railroad. He has never done any promoting. He has never asked any one to buy stock in his company. He has “incorporated” himself in order to be business-like in his spending. The magni- tude and the picturesqueness of the work, its absolutely unique quality, grow the more it is studied. It was not merely a rich man's hobby, nor strictly a commercial enterprise. Why, then, is this work at all? To explain this you must explain Flagler himself. 
 
-II 
+## II 
 
 AND nobody knows Flagler! In the Standard Oil offices you hear: “A fine man!” or “A wonderful man!” But no body can visualize an adjective. Being in Florida, you naturally turn to the Flagler lieutenants. Your credentials entitling you to their confidence, they speak very frankly. You are immediately struck by the curious note of apology in their voice and manner as though they expected derision or skep ticism. They simply despair of making you believe that anybody could possibly be as nice as Flagler is to all his employees. The esprit de corps is amazingly strong. He gives them a free hand. By putting them much on their honor, he also puts them on their mettle, though, after all, their chief motive force appears to be personal loyalty. I wish to make it very clear that I cherish no deathless illusions about men rich or poor; that, having spent my working life in Wall Street, I cannot be accused of un familiarity with either modern business methods or the personality of the great cap- tains of industry. And now, I deliberately state that Mr. Flagler's subordinates in Florida, in charge of interests representing an actual cash outlay of more than forty millions of dollars, when deciding disputes or settling any manner of business matters, always act, not for “the good of the com- pany” or its profit, but invariably as they think Mr. Flagler would personally act. And Mr. Flagler always decides in favor of what is just and fair and kind. I cannot say as much of any other “big man,” though it must be remembered that while other cor- porations have no souls, this one has, and it belongs to Henry M. Flagler. 
 
@@ -101,7 +101,7 @@ Flagler's Florida lieutenants told pretty the same stories. If I quote one, it i
 
 “I should say that he is the most modest man in the world. When the people wanted to call the new town of Miami 'Flagler,' he refused, and asked that it should keep its old name—and he had built the town. Why, this year-1909–when the committee wanted to give him a box at the Ponce de Leon cele bration in St. Augustine, he wouldn't accept it, preferring to go on the grand stand with the crowd. They literally forced him to take the box-and you know what St. Augustine owes to him. The vestrymen of the Memorial Church had to wait until some meeting at which he was not present to vote a pew to him in perpetuity; he did not wish to accept it, preferring to be like any other pewholder-and he had built the church. “He never swears. I think ‘Thunder!' is his strongest expletive. And I have yet to hear him call any one a 'd-fool.' The nearest he comes to it is: “Now, wouldn't you think a man would have more sense than that?' 
 
-$84,000 FOR A $4,000 SITE 
+### $84,000 FOR A $4,000 SITE 
 
 “He has none of the steam-roller tenden- cies which I hear people accuse other big men of. For instance, when he was about to build the Alcazar, which, like the Ponce de Leon, is situated on marshy ground which he filled in, the Methodist Church stood near by. It was an old building that would have been dear at $4,000, land and all. He told the congregation that if they would let him have the site, he would build them a nice church anywhere else they wished. They agreed, thinking he would deal fairly by them. They hoped that he might spend as much ' as $5,000 on it. Well, he built the Meth odist Church and parsonage at a cost of $84,000 and gave it to them, free and clear. And that is characteristic of him. 
 
@@ -125,13 +125,13 @@ He received me in “Whitehall,” his Palm Beach palace a beautiful house set a
 
 I saw an old man with a high forehead rising in straight lines from the temples. His hair is of a clean, glistening silver, like the cropped mustache and the eyebrows. They set off his complexion, which is neither ruddy nor baby-pink, but what one might call a virile red. He has a straight nose and a strong chin. The head is well shaped; that is, without phrenological over-accentua- tions. The eyes are a clear blue-some might say violet. They must have been very keen once; to-day their expression is not easy to describe-not exactly shrewd nor compelling nor suspicious, though you feel they might have been all these, years ago. Withal, you are certain that it is not age which has mellowed them; the change is more subtle; it is from within-eyes that gleam but never flame. Between his eye- brows there is an inverted V, deep-wrinkled; you think of it as a sort of chronic frown, which persists even though the cause of it disappeared decades ago. A handsome old man! Under his fourscore years his shoul- ders have bowed slightly, but there is no semblance of decay.
 
-FLAGLER--A MAN ALONE 
+### FLAGLER--A MAN ALONE 
 
 You see in his face good concentration; good observation, without undue alertness; meditation without self-abstraction; atten- tiveness without tension; indomitable will without stubbornness; a steady-gaited man, deliberate not from age nor from indiffer- ence, but from temperament and life habit. But the most remarkable thing about him is the curious sense of difference rather than mere aloofness. There is no supercilious- ness, no impatience, no hint of superiority; yet you are subtly made aware that he is alone, by himself. His forehead suggests the facade of a strange temple. What there is within no human being knows. You think of his mind as a machine, prodigiously pow- erful, that works without a hitch, without sensational bursts of speed, without an ec- centric in the entire engine, always steady, precise, automatic, cool, perfectly lubricated, marvelously adjusted, beautifully compen- sated. And the motive power comes from- where? I do not know. But one can always say: From God! 
 
 After you have become acquainted with him, you find a man who talks freely, yet never freely enough; who answers every- thing, but volunteers nothing. You are not guilty of a “bull” when you say of him that he talks taciturnly. His speech is deliber-ate, but he never drawls; a business man without the fidgets of a “hustler.” You realize that there is no life-habit of caution; you get no impression of a man perennially on his guard, as in John D. Rockefeller; he is calm and kindly; never distant-and al ways at a distance. 
 
-A STATUE WITH VEINS 
+### A STATUE WITH VEINS 
 
 You realize that you are before a man who has suffered and has never wept; who has undergone intense pain and has never sobbed; who has never bent under stress and has never hurrahed! When a man has one or another group of salient traits, you place him in a certain pigeonhole of human classi fication. Your great man is apt to be one with certain faculties over-developed, and classifies easily. But Flagler is not like any one else and withal is not eccentric. He is without redeeming vices, without amiable inconsistencies, without obsessions. He simply does not “classify.” You cannot ac curately adjectivize him. He does not defy analysis; he baffles it. It is as if the soul of him, condensed, compressed by environment, or heredity, or some great natural force not by self-effort—had been molded into a statue, full of vitality, yet immobile; a statue with veins. Whether they run red blood you cannot tell; but you are certain it is not ice water. What ichor is it, then? 
 
@@ -247,7 +247,7 @@ Why then?”
 
 It was a great deal to ask of a man in his eightieth year in his own home. He an- swered this even more freely than the other questions:
 
-THE TOP NOTCH OF RESERVE 
+### THE TOP NOTCH OF RESERVE 
 
 “I suppose it is. inherited. I was born in Hope, near Canandaigua, New York, in 1830. I realize how this country has grown when I remember that in the year I was born there were exactly twenty-four miles of railroad in all the United States. My father was a Presbyterian clergyman. When I was fourteen I realized that, with his small salary, it was all he could do to take care of himself, to say nothing of my mother and my sister. So I went to the edge of what was then called the Western Reserve, to Bellevue, in northern Ohio. I worked there. Some years later my father and mother joined me. After a while he re- tired from the ministry. 
 
@@ -271,7 +271,7 @@ The second was: “Which do you consider the hardest thing you have done in Flor
 
 “Building the Ponce de Leon. Here was St. Augustine, the oldest city in the United States. How to build a hotel to meet the requirements of nineteenth-century America and have it in keeping with the character of the place—that was my hardest problem. The Alcazar I built because it was suggested to me that there were many nice people who might not be able to afford to pay the rates the Ponce de Leon would have to ask, and yet wished to enjoy St. Augustine. To pro- vide accommodations for them, we built the Alcazar as a two-dollar-a-day house. It is every bit as good as the Ponce de Leon.”
 
-A MAN WITH TWO YOUTHS 
+### A MAN WITH TWO YOUTHS 
 
 On the night of the Ponce de Leon cele- bration in St. Augustine last spring, I met him in the courtyard of the hotel. He was stand- ing by the fountain. The sky was like the inside of a huge, hollow turquoise--blue, luminous, thinly washed with silver. The moon was very bright; so near the earth that it seemed more neighborly than in the North. A mist as of vaporized moon-metal enveloped the buildings and made them unforgettably beautiful. The grounds were illuminated; you could have sworn the lights were captive fireflies. The palms resembled ghosts of women with disheveled hair. The fountain splashed droningly. You heard no other sound. 
 
@@ -283,7 +283,7 @@ That was the time and place from which, beginning at his eightieth year, I walke
 
 Little is known of Flagler's early youth. He is temperamentally averse to reminis- cences. But Flagler himself told me that hewent to the district school and learned all there was to be learned there; also--you recall--that he left his home at fourteen be cause he thought it was his duty not to be a burden to his father. He knew no trade and probably did not fancy any. When he went to northern Ohio in 1844, he became a clerk in a country store. He worked hard -six days a week. In time he became a partner in the firm, and the firm in turn became, among other things, the principal grain shipper in Bellevue. 
 
-FLAGLER BEFORE STANDARD OIL DAYS 
+### FLAGLER BEFORE STANDARD OIL DAYS 
 
 In the early sixties he and his partner be came interested in salt-wells in Saginaw, Michigan. It was at the time of the salt craze, and fabulous fortunes were going to be made in that business. After some years of ups and downs the partners failed. A very old friend of his told me he recalled hearing Flagler say, forty-odd years ago, that he owed $30,000, and that if he ever paid off his debts and was $10,000 ahead, he would retire from business. At all events, after his Michigan failure he spent a year in Cleveland working at various things. He was interested in a machine for making horseshoes, which was never perfected. He also tried to do a grain commission business. John D. Rocke feller, then a bookkeeper, he met in the office of ex-Mayor George W. Gardner in Cleve land, who was a grain shipper and as such knew and liked Flagler from the old Bellevue days. It was a period of poverty and des pondency. His wife's uncle became inter ested in him and supplied the money-so I am informed by old-timers—with which Flagler joined the others in forming the oil firm of Rockefeller, Flagler, and Andrews. He was close to his fortieth year; close to that period of life when a man is at his maxi mum efficiency; but also, an age at which a man has acquired the equipment with which to command whatever success is to come to him. He merely "found himself” somewhat later in life than is usual with men. Mentally he has grown in the same deliberate manner in which he does everything; and as thor oughly. 
 
@@ -295,7 +295,7 @@ In the Standard Oil Company's gigantic growth, grave problems were met and dealt
 
 Past his half-century, Flagler, a clear- headed, calm-eyed man, found himself enor- mously rich. The profits of the oil business had been put back into the business. But the inevitable day came when there was no need for further investment. The money- making machine was not only perfect; it was permanent. The only concern of its engi-neers was now personal: What to do with the profits? His yearly income was in itself a princely fortune—and growing princelier. Outside investments must be sought. John D. Rockefeller became the richest man in the world. Flagler says: “If it wasn't for Florida, I'd be quite a rich man to-day.” It is characteristic of men who see clearly and think in straight lines that they have no illusions about their capabilities or those of others. Flagler says that at fifty-five he “had the sense to see that younger men in the company could run the business better, if they had the chance.” And at about that same time he went to St. Augustine for a rest, accompanied by his daughter, who was not well. If it had not been for that visit at that time, he might perhaps to-day be the second richest man in the world. 
 
-FROM OHIO WHEAT TO FLORIDA PALMS 
+### FROM OHIO WHEAT TO FLORIDA PALMS 
 
 His personal habits had always been simple. They tell me he carried his lunch to his office daily for years, even after he was a million aire; not from excessive frugality so much as from absorption in his work and from that curious half-shyness, half-modesty of his. The wife of his youth was an invalid. Every night, when his work was done, he went home. He would read to her; or, if she were too fatigued, he would sit in the adjoining room and read to himself. In seventeen years this man, who was well liked by his fellows, spent but two evenings away from his home. Two nights in seventeen years! Diversion, distraction from business cares, information he found in books read aloud to an invalid wife and silently to himself. 
 
@@ -317,7 +317,7 @@ There still remained for him to get closer to his fellow-men. Tourists to whom t
 
 There was a frost. It killed most of the fruit trees—and also killed the last of the old Flagler. He promptly went to the scene of the disaster, in order to consider intelligently what to do. And there he saw for himself how people whom his railroad had induced to come here and invest money and devote time and labor to develop the country, had lost. It was not his fault. It was the worst frost on record, and the planters were too new at it to know how to protect their trees against the cold. Their investment in dollars was a drop beside his own. But he saw for himself human suffering, he met his fellow-men close enough to look into their the eyes. He reverted to his first youth, to the time when he was very poor, before he was even a partner in a country store. It was then that his philosophy of life began to crystallize, slowly at first; more rapidly as he saw more and more of men, as he saw them trying to benefit directly by his own work. Having great wealth, he decided there was but one thing to do: Extend his railroad still farther south, where orange growers would be less at the mercy of Jack Frost.
 
-FLAGLER'S. MAGIC FOUNTAIN 
+### FLAGLER'S. MAGIC FOUNTAIN 
 
 He would do this to help others! Logical, clear-sighted, immune from greed, and free from emotionalism, a six-days-a-week worker from his youth, realizing the value of oppor- tunity to men, he now reached the conclusion that the best way to help others was to help them to help themselves. The desire to help he might long have had; it was intensified, made definite, by the sight of the distress caused by the blighting of the oranges, 
 
